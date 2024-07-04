@@ -53,5 +53,3 @@ function recurringTimeout() {
 }
 
 setTimeout(recurringTimeout, 1000); // Start the first iteration
-// Question: Can you use setTimeout to create a high-resolution timer in JavaScript?
-

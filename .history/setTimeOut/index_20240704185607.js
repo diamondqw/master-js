@@ -32,16 +32,16 @@ setTimeout(function(){
 },2000)
 // Question: How can you simulate a recurring setTimeout without using setInterval?
 
-// let count=0;
-// function recurringcounter(){
-//     console.log(`${count}`);
-//     count++;
-//     console.log(count)
-//     if(count<5){
-//         setTimeout(recurringcounter,2000)
-//     }
-// }
-// setTimeout(recurringcounter,2000);
+let count=0;
+function recurringcounter(){
+    console.log(`${count}`);
+    count++;
+    console.log(count)
+    if(count<5){
+        setTimeout(recurringcounter,2000)
+    }
+}
+setTimeout(recurringcounter,2000);
 let counter = 0;
 
 function recurringTimeout() {
@@ -53,5 +53,3 @@ function recurringTimeout() {
 }
 
 setTimeout(recurringTimeout, 1000); // Start the first iteration
-// Question: Can you use setTimeout to create a high-resolution timer in JavaScript?
-
