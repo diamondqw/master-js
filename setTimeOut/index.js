@@ -14,4 +14,3 @@ function fn(){
 delayfn(fn,2000)
 
 console.log("end")
-\
