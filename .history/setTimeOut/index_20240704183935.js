@@ -4,7 +4,7 @@ setTimeout(()=>{
 console.log(`execute after timeout 2 milliSecs`)
 },2000)
 console.log("end")
-function delayfn(fn,time){
+function delayfn(fn,time){a
     setTimeout(fn,time)
 }
 console.log("start")
@@ -27,8 +27,6 @@ setTimeout(function(){
         throw new Error("oops error occuring")
     }
     catch(error){
-        console.error(`${error.message}`)
+        console.log(`${error}`)
     }
 },2000)
-// Question: How can you simulate a recurring setTimeout without using setInterval?
-

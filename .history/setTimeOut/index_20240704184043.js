@@ -30,5 +30,3 @@ setTimeout(function(){
         console.error(`${error.message}`)
     }
 },2000)
-// Question: How can you simulate a recurring setTimeout without using setInterval?
-

@@ -27,8 +27,6 @@ setTimeout(function(){
         throw new Error("oops error occuring")
     }
     catch(error){
-        console.error(`${error.message}`)
+        console.error
     }
 },2000)
-// Question: How can you simulate a recurring setTimeout without using setInterval?
-
