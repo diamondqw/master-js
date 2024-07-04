@@ -3,3 +3,5 @@ function callBack(){
 }
 let timeId  =  setInterval(callBack,2000)
 console.log(timeId);
+
+clearInterval(timeId)
