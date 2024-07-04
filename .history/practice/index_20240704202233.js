@@ -14,7 +14,7 @@ function A(callback,time)
     for (var i = 1; i <= 5; i++) {
         (function(j) {
           setTimeout(function() {
-            console.log(j);
+            console.log(i);
           }, j * 1000);
         })(i);
       }
