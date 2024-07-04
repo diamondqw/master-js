@@ -14,3 +14,10 @@ function A(callback,time)
           console.log(i);
         }, 1000);
       }
+for(let i=1;i<=5;i++){
+    (function(j){
+        setTimeOut(function(){
+            console.log(j)
+        },j*1000)
+    })(i)    
+}
