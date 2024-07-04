@@ -1,0 +1,1 @@
+function delay(time,calback)
