@@ -1,0 +1,34 @@
+Question 1: Dynamic List Manipulation
+
+Problem: Create a web page with an input field and a button. When the button is clicked, take the value from the input field and dynamically add it as a new list item to an unordered list (<ul>).
+Hints:
+Use document.createElement() and appendChild() methods for dynamically adding elements.
+Add event listeners to handle button clicks and retrieve input values.
+Question 2: Image Gallery with Modal
+
+Problem: Create an image gallery where clicking on an image opens a modal popup with the full-size image. Include navigation buttons within the modal to switch between images.
+Hints:
+Use event delegation to handle clicks on gallery images efficiently.
+Create and append modal elements dynamically (div, img, button).
+Use CSS for styling the modal and gallery layout.
+Question 3: Form Validation
+
+Problem: Implement basic form validation for a login form with email and password fields. Display error messages dynamically below each input field if they are empty when the form is submitted.
+Hints:
+Use form.addEventListener('submit', ...) to capture form submission.
+Access form elements using document.getElementById() or querySelector().
+Manipulate DOM to add/remove error messages dynamically based on form validation results.
+Question 4: Drag and Drop
+
+Problem: Create a draggable and droppable list where users can reorder items by dragging them to a new position within the list.
+Hints:
+Utilize HTML5 Drag and Drop API (ondragstart, ondragover, ondrop) for handling drag and drop events.
+Update the DOM dynamically to reflect changes in item order.
+Provide visual feedback during dragging using CSS (cursor, opacity, transform).
+Question 5: Filtering and Searching
+
+Problem: Implement a filter/search functionality for a list of items. Provide an input field where users can type keywords, and dynamically filter and display matching items from the list.
+Hints:
+Use input event listener on the search input to detect changes.
+Manipulate DOM to show/hide items based on search criteria.
+Consider using textContent or innerHTML properties to update item visibility.
