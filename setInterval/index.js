@@ -21,3 +21,8 @@ function startInterval() {
 }
 
 startInterval();
+function callbuck(){
+  consol.log('lol')
+}
+let intervalID = setInterval(callback,2000)
+clearInteraval(intervalId)
