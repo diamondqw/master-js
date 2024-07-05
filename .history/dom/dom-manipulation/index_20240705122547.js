@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded',function(){
     let buttonElement  = document.getElementById("change-text-button")
     buttonElement.addEventListener('click',function(){
       headingElement.textContent ="changed"
-      paraElement.classList.add("highlight")
+      paraElement.classList.add("hightlight")
     })
     
       
