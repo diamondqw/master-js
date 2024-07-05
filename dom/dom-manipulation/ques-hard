@@ -1,0 +1,19 @@
+DOM Tree Manipulation: Write a function in JavaScript that takes two DOM elements as arguments and swaps their positions in the DOM tree without using any third element or external libraries. The function should handle edge cases such as when the elements are not siblings or are deeply nested.
+
+Event Delegation and Performance: Implement a custom event delegation mechanism in JavaScript for a dynamically generated list where each item has multiple clickable elements (buttons, links). Ensure that the event handlers are efficiently managed even as the list grows in size.
+
+Complex CSS Selectors and DOM Traversal: Write a function that accepts a complex CSS selector (e.g., ul > li:nth-child(odd) > a[href="#"]) and returns an array of corresponding DOM elements that match the selector, using only native DOM methods (no querySelector or querySelectorAll allowed).
+
+Rendering Optimization: Design a JavaScript algorithm to efficiently render a large dataset (e.g., 10,000 items) as DOM elements in a scrollable list. Ensure that only the visible items are rendered to maintain smooth scrolling performance, while minimizing memory usage and DOM manipulation overhead.
+
+Cross-Browser Compatibility and Edge Cases: Create a script that checks for the existence and accessibility of specific DOM features (e.g., document.activeElement, document.createRange()) across major browsers (Chrome, Firefox, Safari, Edge). Handle edge cases such as older browser versions or non-standard implementations.
+
+DOM Manipulation and Events: Write a function that dynamically creates a form with input fields (text, checkbox, select) and a submit button. Implement event handling so that upon form submission, the values of the form fields are logged to the console.
+
+Asynchronous DOM Updates: Create a function that fetches data from a remote API (simulated with a local JSON file), and dynamically updates the DOM with the retrieved data. Ensure error handling for failed API requests and display appropriate messages.
+
+CSS Manipulation and Animation: Develop a script that toggles a CSS class on a DOM element when clicked, triggering a smooth transition or animation (e.g., fading in/out, sliding up/down). Use vanilla JavaScript and CSS transitions for the effect.
+
+Interactive Elements and State Management: Build a simple interactive image gallery where clicking on thumbnail images updates a larger main image dynamically. Include navigation controls (previous/next) and ensure smooth transitions between images.
+
+Form Validation and Error Handling: Implement client-side form validation using JavaScript for a registration form. Validate fields such as email format, password strength, and required fields, displaying error messages dynamically next to each invalid input.
