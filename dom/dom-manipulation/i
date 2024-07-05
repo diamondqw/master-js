@@ -1,0 +1,28 @@
+Interactive Form Validation:
+
+Description: Create a form with input fields (e.g., name, email, password) that dynamically validate user input using JavaScript. Display real-time feedback (e.g., error messages) based on validation rules such as required fields, email format, and password strength.
+Skills Demonstrated: DOM manipulation for adding/removing classes, updating text content dynamically, event handling (e.g., input and submit events), and form validation logic.
+Image Gallery with Filtering:
+
+Description: Build an image gallery where users can filter images based on categories (e.g., nature, architecture, portraits) using buttons or dropdowns. Implement smooth transitions and animations when filtering images.
+Skills Demonstrated: DOM manipulation to show/hide elements based on user interactions, CSS transitions/animations, event handling (e.g., click event), and organizing content dynamically.
+Todo List Application:
+
+Description: Develop a todo list application where users can add, edit, delete, and mark tasks as completed. Implement features like sorting tasks by priority or due date, and persisting tasks using localStorage or a backend API.
+Skills Demonstrated: CRUD operations (Create, Read, Update, Delete) using DOM manipulation, managing state and data binding, event delegation, and working with localStorage or APIs for data persistence.
+Infinite Scrolling News Feed:
+
+Description: Create a news feed that loads additional content dynamically as the user scrolls down (infinite scrolling). Fetch news articles or posts from an API and append them to the DOM without reloading the page.
+Skills Demonstrated: Asynchronous data fetching using fetch API or Axios, dynamically creating and appending DOM elements, handling scroll events, and optimizing performance by fetching data in batches.
+Interactive Quiz or Survey:
+
+Description: Develop a quiz or survey application where users can answer questions and see real-time feedback (e.g., correct/incorrect answers, progress bar). Implement navigation between questions and a final results page.
+Skills Demonstrated: Dynamic creation of quiz/survey questions and options, updating progress indicators, event handling (e.g., click and submit events), and displaying results dynamically based on user input.
+Drag and Drop Task Board:
+
+Description: Build a task board (similar to Trello) where users can drag and drop tasks between different columns (e.g., To Do, In Progress, Done). Implement features like task creation, editing, and deleting.
+Skills Demonstrated: Drag and drop functionality using HTML5 Drag and Drop API or a library like Dragula, dynamically updating task positions, managing state and updating UI based on user interactions.
+Interactive Data Visualization:
+
+Description: Create a data visualization dashboard (e.g., charts, graphs) that updates dynamically based on user-selected parameters (e.g., date range, data filters). Fetch data from an API and render visualizations using libraries like Chart.js or D3.js.
+Skills Demonstrated: DOM manipulation to render and update visualizations dynamically, integrating with third-party libraries for charting, handling user interactions to filter data, and presenting insights effectively.

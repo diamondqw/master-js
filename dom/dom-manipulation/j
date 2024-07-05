@@ -1,0 +1,28 @@
+Interactive To-Do List:
+
+Description: Create a to-do list application where users can add, edit, and delete tasks. Tasks should be stored locally using localStorage and displayed dynamically on the page. Implement features like marking tasks as complete and filtering tasks by status.
+Skills Demonstrated: DOM manipulation for adding/removing elements dynamically, event handling (e.g., click, submit), managing local storage for data persistence, and implementing basic CRUD operations.
+Interactive Image Gallery:
+
+Description: Build an image gallery that allows users to click on thumbnails to view a larger version of the image. Implement features such as image navigation (previous/next) and a lightbox/modal for displaying images.
+Skills Demonstrated: DOM manipulation for showing/hiding elements dynamically, handling events (e.g., click), creating modal/lightbox components, and optimizing image loading and transitions.
+Interactive Quiz App:
+
+Description: Develop a quiz application where users can answer multiple-choice questions. Display questions and options dynamically, and provide immediate feedback on correct or incorrect answers. Show a final score at the end of the quiz.
+Skills Demonstrated: Creating and updating DOM elements dynamically based on data (questions and answers), event handling for user interactions (e.g., selecting answers, submitting quiz), and calculating and displaying results dynamically.
+Dynamic Weather Dashboard:
+
+Description: Create a weather dashboard that fetches weather data from a weather API (e.g., OpenWeatherMap). Display current weather information dynamically (temperature, humidity, wind speed) and allow users to search for weather forecasts by location.
+Skills Demonstrated: Asynchronous data fetching using fetch API or Axios, dynamically updating DOM with weather data, handling user input and form submissions, and presenting data in a clear and organized manner.
+Interactive Form Validation:
+
+Description: Build a form validation tool that checks user input for various validation rules (e.g., required fields, email format, password strength). Display error messages dynamically and prevent form submission until all inputs are valid.
+Skills Demonstrated: DOM manipulation to show/hide error messages dynamically, validating user input using JavaScript, event handling (e.g., input, submit), and enhancing user experience with real-time feedback.
+Dynamic Content Tabs:
+
+Description: Implement a tabbed interface where users can switch between different sections of content (e.g., tabs for About, Services, Contact). Load content dynamically when switching tabs to enhance performance.
+Skills Demonstrated: Creating and updating DOM elements based on user interactions (tab clicks), managing state to track active tabs, optimizing DOM updates to minimize reflows, and enhancing usability with smooth transitions.
+Sortable Drag-and-Drop List:
+
+Description: Create a sortable list where users can drag and drop items to reorder them. Implement features such as highlighting drop zones, updating the list order dynamically, and saving the new order using localStorage.
+Skills Demonstrated: Implementing drag-and-drop functionality using HTML5 Drag and Drop API or a library like Sortable.js, updating DOM elements dynamically based on user interactions, and managing data persistence locally.

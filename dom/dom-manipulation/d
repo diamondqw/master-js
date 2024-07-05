@@ -1,0 +1,21 @@
+Dynamic Table Creation:
+
+Write a function that dynamically creates an HTML table with a specified number of rows and columns. Each cell should have a unique identifier (like row-column indices) and should display its coordinates when clicked.
+Interactive Form Validation:
+
+Create a form with input fields that require specific validation (e.g., email format, password strength). Implement real-time validation using JavaScript to provide feedback to users as they type.
+Sortable List:
+
+Develop a script that allows users to drag and drop list items within an unordered list (<ul>) to reorder them. Ensure that the order of items is reflected accurately in the DOM and that the list remains sortable even after reordering.
+Image Carousel:
+
+Design an image carousel component using JavaScript and CSS. Users should be able to navigate between images using arrow buttons or swipe gestures on touch-enabled devices. Bonus points for adding transition effects.
+Modal Dialog Implementation:
+
+Build a modal dialog component that can be triggered by clicking a button or link. Ensure it overlays the rest of the page content and can be closed by clicking outside the modal or pressing the escape key.
+Infinite Scroll:
+
+Implement an infinite scroll feature for a list of content (e.g., articles, products) fetched from an API. Load additional items dynamically as the user scrolls down the page, maintaining a smooth and responsive experience.
+Collapsible Panels:
+
+Create a set of collapsible panels that expand and collapse when clicked. Panels should toggle their visibility and adjust the layout dynamically to accommodate the expanded or collapsed state of other panels.
