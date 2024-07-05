@@ -24,3 +24,9 @@ const ascont =document.getElementById('container')
 const btnEl = document.createElement('button')
 btnEl.textContent="click me"
 document.body.appendChild(btnEl)
+let btnEl = document.createElement('button')
+btnEl.textContent="click me"
+document.body.appendChild(btnEl)
+btnEl.addEventListener('click',function(){
+    document.body.removeChild(btnEl)
+})
