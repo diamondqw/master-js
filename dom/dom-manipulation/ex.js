@@ -6,13 +6,13 @@ let get = document.getElementById('feck')
 //
 getElementByClassName 
 //
-let getcs  =  document.getElementByClassName('.feck2')
+let getcs  =  document.getElementsByClassName('.feck2')
 
 //
 getElementByTagName
 
 //
-let getTag =document.getElementByTagName('<div>')
+let getTag =document.getElementsByTagName('<div>')
 
 
 // return element with css selectors //
