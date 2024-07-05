@@ -11,11 +11,11 @@ function startInterval() {
 
   intervalID = setInterval(function() {
     console.log('Interval executed');
-    // Example of conditionally adjusting interval
+    
     if (conditionToChangeInterval) {
-      clearInterval(intervalID); // Clear previous interval
-      delay = 500; // New interval delay
-      intervalID = setInterval(arguments.callee, delay); // Restart interval with new delay
+      clearInterval(intervalID);
+      delay = 500;
+      intervalID = setInterval(arguments.callee, delay); 
     }
   }, delay);
 }
