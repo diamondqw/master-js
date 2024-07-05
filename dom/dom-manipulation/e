@@ -1,0 +1,29 @@
+Event Handling and DOM Manipulation:
+
+Question: Explain the difference between addEventListener and onclick for attaching event handlers to DOM elements. When would you prefer to use one over the other in a frontend application?
+
+Answer Guidance: This question tests understanding of modern event handling practices (addEventListener) versus the older onclick attribute method. Candidates should demonstrate awareness of advantages like multiple event handlers and separation of concerns.
+
+Dynamic Content Creation:
+
+Question: Describe how you would dynamically create a list of items using JavaScript and append it to an existing <ul> element in the DOM. Include considerations for performance and accessibility.
+
+Answer Guidance: This assesses practical knowledge of DOM manipulation techniques. Candidates should mention creating elements with document.createElement, setting attributes and content, and appending them to the DOM efficiently.
+
+Form Validation and Interaction:
+
+Question: Explain how you would implement client-side form validation using JavaScript. What are the key aspects to consider for ensuring a user-friendly experience?
+
+Answer Guidance: This tests understanding of form validation techniques, including event handling (submit event), validating input values, providing feedback (e.g., error messages), and preventing form submission on errors.
+
+Handling Asynchronous Events:
+
+Question: Discuss how you would manage asynchronous data loading and DOM manipulation in a frontend application. What are some best practices for ensuring smooth user interaction?
+
+Answer Guidance: Candidates should demonstrate familiarity with asynchronous programming concepts (e.g., fetch API, Promises, async/await), updating the DOM dynamically based on data retrieval, and handling loading states gracefully.
+
+Cross-browser Compatibility:
+
+Question: How do you ensure cross-browser compatibility when developing JavaScript-based features for a website? Provide examples of challenges and solutions you've encountered.
+
+Answer Guidance: This question assesses knowledge of browser inconsistencies and techniques for handling them (e.g., feature detection, polyfills, vendor prefixing). Candidates should mention testing and debugging across different browsers.
