@@ -1,0 +1,36 @@
+Random Quote Generator:
+
+Create a webpage that displays a new random quote each time a button is clicked.
+Store quotes in an array and use JavaScript to randomly select and display one.
+Interactive Dice Roller:
+
+Build a dice rolling simulator where users can click a button to roll a six-sided die and display the result.
+Interactive Calculator (Basic):
+
+Design a calculator interface with HTML buttons for digits and basic operations (addition, subtraction, multiplication, division).
+Implement JavaScript to perform calculations based on user input.
+Color Guessing Game:
+
+Create a game where the user has to guess the RGB color value shown on the screen.
+Provide feedback on whether the guessed color is correct or not.
+Simple To-Do List with Local Storage:
+
+Develop a to-do list where users can add, delete, and mark tasks as completed.
+Use local storage to persist tasks even after refreshing the page.
+Interactive Image Gallery:
+
+Build a gallery of images where users can click on thumbnails to display a larger version in a modal or lightbox.
+Form Autofill with JSON Data:
+
+Create a form that autofills fields (e.g., name, email) based on JSON data when a button is clicked.
+Use JavaScript to fetch and parse JSON data.
+Countdown Timer with Alarm:
+
+Develop a countdown timer that allows users to set a specific time and receive an alert or play a sound when the countdown reaches zero.
+Currency Converter:
+
+Design a simple currency converter where users can enter an amount in one currency and convert it to another using live exchange rates fetched from an API.
+Tic-Tac-Toe Game:
+
+Implement a two-player Tic-Tac-Toe game where users can click on squares to place X's and O's.
+Include logic to determine the winner or if the game ends in a draw.
