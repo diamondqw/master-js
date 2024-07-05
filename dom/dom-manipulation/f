@@ -1,0 +1,30 @@
+Virtual DOM and Reconciliation:
+
+Question: Explain the concept of Virtual DOM in frameworks like React. How does Virtual DOM reconciliation optimize DOM updates, and what are its advantages over direct DOM manipulation?
+Event Delegation and Performance:
+
+Question: Discuss the performance benefits of using event delegation for handling events in large-scale applications. How does event delegation optimize memory usage and improve event handling efficiency?
+Dynamic Templating and Data Binding:
+
+Question: Compare and contrast templating engines (like Handlebars or Mustache) with JavaScript frameworks that offer data binding (like Angular or Vue). What are the advantages of each approach in terms of DOM manipulation and performance?
+Rendering Optimization Techniques:
+
+Question: Describe advanced techniques for optimizing rendering performance in a frontend application. Include strategies such as lazy loading of components, virtual scrolling, and batched DOM updates.
+Web Components and Shadow DOM:
+
+Question: What are Web Components, and how do they utilize Shadow DOM for encapsulating styles and behavior? Discuss scenarios where Shadow DOM is beneficial for building reusable UI components.
+Cross-browser Compatibility Challenges:
+
+Question: Share a specific example of a cross-browser compatibility issue you've encountered when manipulating the DOM with JavaScript. How did you identify and resolve the issue, and what tools did you use?
+Complex State Management in UIs:
+
+Question: When building complex user interfaces, how do you manage state changes across different components? Discuss patterns like Flux or Redux and their impact on DOM manipulation and application architecture.
+Progressive Web Applications (PWAs):
+
+Question: Explain how Service Workers and caching strategies can enhance the performance and offline capabilities of a PWA. How does DOM manipulation play a role in delivering a seamless offline experience?
+Security Considerations in DOM Manipulation:
+
+Question: What are some common security vulnerabilities associated with client-side DOM manipulation? How do you prevent and mitigate risks such as Cross-Site Scripting (XSS) attacks in frontend applications?
+Optimizing for Accessibility and Inclusive Design:
+
+Question: How do you ensure that your DOM manipulations are accessible to users with disabilities? Discuss techniques such as ARIA roles and attributes, focus management, and semantic HTML for enhancing accessibility.
