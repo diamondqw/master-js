@@ -20,4 +20,7 @@ acsel=document.appendChild(nwEl)
 
 ascel.removeChild(nwEl)
 
-const 
+const ascont =document.getElementById('container')
+const btnEl = document.createElement('button')
+btnEl.textContent="click me"
+document.body.appendChild(btnEl)
