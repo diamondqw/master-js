@@ -30,3 +30,11 @@ document.body.appendChild(btnEl)
 btnEl.addEventListener('click',function(){
     document.body.removeChild(btnEl)
 })
+let ftdv = document.getElementById('container');
+let ul= document.createElement('ul');
+['Apple','orange','potato'].forEach(fruit => {
+    let li = document.createElement('li')
+    li.textContent=fruit
+    ul.appendChild(li);
+})
+ftdv.appendChild(ul)
