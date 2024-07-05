@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+     <title>
+    Dom 
+  </title>
+    <style>
+      .highlight{
+        color:red;
+          font-weight:bold;
+      }
+    </style>
+  </head>
+  <body>
+  <h1 id="main-heading">Dom example</h1>
+    <p id="paragraph">This is paragraph</p>
+    <button id="change-text-button">
+      Change Text
+    </button>
+    <script>
+//access
+      let headingElement = document.getElementById("main-heading")
+      let paraElement = document.getElementById("paragraph");
+      let buttonElement = document.getElementById("change-text-button")
+      //add eventListener
+      buttonElement.addEventListener('click',function(){
+        //modification 
+        headingElemen.textContent ="changed"
+        paraElement.classList.add('highlight')
+      })
+    </script>
+  </body>
+</html>
