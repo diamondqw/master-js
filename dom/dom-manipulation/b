@@ -1,0 +1,29 @@
+DOM Traversal and Manipulation:
+
+Write a function to find all elements in a document with a specific class name.
+Implement a function to toggle a CSS class on an element.
+Create a function to remove all child nodes of a specific element.
+Event Handling:
+
+Write code to add an event listener to a button that logs a message when clicked.
+Implement a function that attaches a handler to an element for a custom event.
+Dynamic Content Creation:
+
+Write a function that creates a new div element with some text content and appends it to the body of the document.
+Create a function that dynamically adds options to a <select> element based on an array of values.
+Asynchronous DOM Manipulation:
+
+Implement a function that fetches data from an API and dynamically updates the DOM with the retrieved data.
+Write code to handle errors that may occur during the asynchronous operations.
+Performance and Optimization:
+
+Discuss strategies to optimize DOM manipulation for large data sets or frequent updates.
+Implement lazy loading or pagination techniques for rendering large lists.
+Browser Compatibility and Cross-Browser Issues:
+
+Describe how you would ensure your DOM manipulation code works consistently across different browsers.
+Handle differences in event handling or CSS properties across various browser versions.
+Testing and Debugging:
+
+Describe your approach to testing DOM manipulation code.
+Explain how you would debug issues related to event propagation or unexpected rendering behavior.
