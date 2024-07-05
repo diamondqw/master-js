@@ -1,0 +1,24 @@
+JavaScript and DOM Manipulation:
+
+How would you dynamically create a list of items on a webpage using JavaScript and the DOM?
+Explain the process of adding event listeners to elements created dynamically with JavaScript.
+What are the advantages of using querySelector and querySelectorAll over traditional DOM traversal methods like getElementById or getElementsByClassName?
+Frontend Development Best Practices:
+
+How do you optimize the performance of a web application built with JavaScript? Discuss techniques like lazy loading, minification, and bundling.
+What are some accessibility considerations to keep in mind when developing a frontend application? How would you ensure your application is accessible to users with disabilities?
+Working with APIs:
+
+Describe the steps involved in making an HTTP request to an API endpoint using JavaScript's fetch API.
+How would you handle CORS (Cross-Origin Resource Sharing) issues when making API requests from a frontend application?
+Explain how you would authenticate and authorize users using tokens when interacting with a backend API from a frontend application.
+Real-World Database Integration:
+
+Discuss the role of frontend frameworks like React or Angular in consuming data from backend databases via RESTful APIs.
+Explain the concept of state management in frontend frameworks. How does it facilitate handling data retrieved from databases asynchronously?
+How would you ensure the security of data transmitted between a frontend application and a backend database? Mention techniques like HTTPS, encryption, and input validation.
+Debugging and Testing:
+
+What tools and techniques do you use to debug JavaScript code in a frontend application?
+Describe your approach to testing a frontend application that interacts with external APIs and databases.
+How do you handle and recover from errors that occur during API requests or database interactions within a frontend application?
