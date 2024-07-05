@@ -1,0 +1,30 @@
+DOM Traversal and Manipulation:
+
+Question: Explain the difference between querySelector and getElementsByClassName methods in DOM manipulation. When would you choose one over the other, and why?
+Event Handling and Propagation:
+
+Question: Describe the event propagation phases in the DOM (capture, target, bubble). How can you control event propagation to achieve specific behavior in an application?
+Dynamic Content Rendering:
+
+Question: When dynamically rendering content with JavaScript, what are best practices for performance optimization? How would you ensure efficient updates without causing unnecessary reflows or repaints?
+State Management in UI Components:
+
+Question: Discuss strategies for managing state within UI components without relying heavily on global variables. How does this approach enhance code maintainability and scalability?
+Responsive Web Design and DOM Manipulation:
+
+Question: How does DOM manipulation play a role in achieving responsive web design? Provide examples of how you would adjust DOM elements dynamically based on viewport size changes.
+Security Considerations:
+
+Question: What are potential security risks associated with directly manipulating the DOM using user input data? How can you mitigate these risks to prevent Cross-Site Scripting (XSS) vulnerabilities?
+Optimizing DOM Performance:
+
+Question: Explain the concept of DOM reflow and repaint. How can you minimize these operations to improve overall frontend performance? Provide practical examples of when optimization is crucial.
+Using Data Attributes:
+
+Question: How do you utilize data- attributes in HTML elements for DOM manipulation? Give examples of scenarios where data attributes are beneficial for storing and retrieving custom data.
+Managing Asynchronous Operations:
+
+Question: Describe how you handle asynchronous operations (e.g., fetching data from an API) and update the DOM dynamically when the data is received. What JavaScript techniques do you use for error handling and loading indicators?
+Accessibility in DOM Manipulation:
+
+Question: What considerations should you keep in mind to ensure your DOM manipulations are accessible to users with disabilities? How can you use ARIA roles and attributes to improve accessibility?
