@@ -6,3 +6,5 @@ ascsel1.innerHtml('<p>New Content</p>')
 
 const ascel2  = document.getElementById('.fck2')
 ascel2.innerText ="change content"
+const imgL =document.getElementById('.img1')
+imgL.setAttribute('src','newImage.png')
