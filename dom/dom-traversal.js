@@ -6,3 +6,5 @@ let secondChild = btn.secondChild;
 let nextSibling = btn.nextSibling ;
 let previousSibling = btn.previousSibling;
 let children= btn.children;
+let btn1 = document.querySelector('classname')
+let btn2 = document.querySelectorAll('classname')
