@@ -8,3 +8,7 @@ let previousSibling = btn.previousSibling;
 let children= btn.children;
 let btn1 = document.querySelector('classname')
 let btn2 = document.querySelectorAll('classname')
+let exEl= document.querySelectorAll('.item')
+exEl.forEach(items=>{
+  console.log(items.textContent)
+}
