@@ -13,3 +13,12 @@ dv.addEventListener('keydown',function(event){
 document.addEventListener('keydown',function(event){
   console.log(event.key)
 })
+let inp = document.getElementById('inp')
+document.addEventListener('keydown' ,function(event){
+  if(event.keyCode===13){
+    let inp = document.getElementById('inp')
+    console.log(input.value)
+    inbput.value=''
+  }
+  
+})
