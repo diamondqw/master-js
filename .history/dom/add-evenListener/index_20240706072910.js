@@ -1,5 +1,5 @@
 let btnEl  = document.getElementById('buttonn')
 btnEl.addEventListener('click',function(event){
-
-  document.body.removeChild(btnEl)
+  alert("jss  s s s s ")
+  document.body.removeChild()
 })
