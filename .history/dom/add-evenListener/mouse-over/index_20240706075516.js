@@ -8,8 +8,5 @@ dv.addEventListener('mouseout',function(event){
   dv.style.backgroundColort ='yellow'
 })
 dv.addEventListener('keydown',function(event){
-  console.log('hi')
-})
-document.addEventListener('keydown',function(event){
-  console.log(event.key)
+  console.log()
 })

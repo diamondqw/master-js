@@ -10,6 +10,3 @@ dv.addEventListener('mouseout',function(event){
 dv.addEventListener('keydown',function(event){
   console.log('hi')
 })
-document.addEventListener('keydown',function(event){
-  console.log(event.key)
-})

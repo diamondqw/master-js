@@ -5,11 +5,6 @@ dv.addEventListener('mouseover' ,function(event){
 })
 dv.addEventListener('mouseout',function(event){
   dv.textContent = 'hover me '
-  dv.style.backgroundColort ='yellow'
+  dv.style.backgroundColor ='yellow'
 })
-dv.addEventListener('keydown',function(event){
-  console.log('hi')
-})
-document.addEventListener('keydown',function(event){
-  console.log(event.key)
-})
+dv.addEventListener
