@@ -1,5 +1,5 @@
 let btnEl = document.getElementById('btn')
-btnEl.addEventListener('click', function(){
+btnEl.addEventListener('click', function clear(){
   btnEl.textContent='added';
-  btnEl.removeEventListener()
+  btnEl.removeEventListener('click' , clear);
 })
