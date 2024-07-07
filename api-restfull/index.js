@@ -26,7 +26,7 @@ axios.post('http:/api.example.como/data',{key:'value'})
 
 fetch('http:api.example.com/data')
 .then(response=>console.log(response))
-.then(user=>user.forEac(use=>{
+.then(user=>user.forEach(use=>{
   consoel.log(use.name)
 }))
 .then(error=>console.log(error))
