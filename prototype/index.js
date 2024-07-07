@@ -9,4 +9,14 @@ console.log(person1.__proto__ === Person.prototype)
 Person.prototype.greet=function(){
   return `hi ${this.name}`
 }
-console.log(person1.greet)
+console.log(person1.greet())
+
+//Object.create
+
+const objProto ={
+  greek(){
+    return "hi"
+  }
+}
+const obj = Object.create(onjProto)
+console.log(obj.greek())
