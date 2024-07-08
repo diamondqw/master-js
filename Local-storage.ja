@@ -1,0 +1,4 @@
+localStorage.setItem('key','value')
+localStorage.getItem('key')
+localStorage.remove('key')
+localStorage.clear()
