@@ -1,0 +1,1 @@
+function n<T>(arg:T)
