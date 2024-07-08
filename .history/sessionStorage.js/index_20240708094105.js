@@ -1,0 +1,1 @@
+var ses = sessionStorage.set
