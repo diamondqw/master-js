@@ -9,11 +9,11 @@ const headers={
 fetch(url +'?' + new URLSearchParams(params),{
   headers
 })
-.then((response)=>{
-  if(!response.ok){
+.then((responses)=>{
+  if(!responses.ok){
   throw new Error("failed in fetching");
 }
-  return response.json()
+  return responses.json()
 })
 .then((data)=>{
   console.log(data)
